@@ -37,3 +37,5 @@ jobs:
     - name: Test with pytest
       run: |
         pytest
+    - name: Display Python version
+      run: python -c "import sys; print(sys.version)"
