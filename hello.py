@@ -1,1 +1,1 @@
-print('Hello, World! adfs')
+print('Hello, World!')
